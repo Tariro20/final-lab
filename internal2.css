@@ -1,5 +1,7 @@
 body{background-color:rgb(7, 39, 63)}
-p{color:rgb(10, 46, 74);font-size:20px;color:rgb(254, 238, 220);text-align:center}
-h1{font-size:28px;color:rgb(254, 238, 220);text-align:center}
-h2{font-size:18px;text-align:center;color:rgb(254, 238, 220)}
+p{color:rgb(10, 46, 74);font-size:calc(5px + 1vw);color:rgb(254, 238, 220);text-align:center}
+h1{font-size:calc(3px + 2vw);color:rgb(254, 238, 220);text-align:center}
+h2{font-size:calc(2px + 1.3vw);text-align:center;color:rgb(254, 238, 220)}
 .images{text-align:center;}
+.nav-list{display:inline;
+padding-left:2vw;font-size:calc(8px + 1.8vw);text-align:center; color:white;}

@@ -1,11 +1,11 @@
 #flex-container{display:flex;flex-direction:row;}
 body{background-color:rgb(173,209,173);}
-h1{font-size:30px;background-color:rgb(141, 185, 141);text-align:center;}
-h2{font-size:18px;}
-h3{font-size:18px;}
+h1{font-size:calc(5px + 1.7vw);background-color:rgb(141, 185, 141);text-align:center;}
+h2{font-size:calc(2px + 1.5vw);}
+h3{font-size:calc(2px + 1.5vw);}
 .column{padding-left:16vw;}
-li{font-size:15px;}
+li{font-size:calc(1px + 1vw);}
 .nav-list{display:inline;
-padding-left:2vw;font-size:30px;text-align:center; color:white;}
-p{text-align:center;}
+padding-left:2vw;font-size:calc(8px + 1.8vw);text-align:center; color:white;}
+p{text-align:center;font-size:calc(1px + 1.2vw)}
 .images{text-align:center;}

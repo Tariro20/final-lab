@@ -1,12 +1,12 @@
 Body{background-color:rgb(252, 158, 158);}
 header{text-align:center;}
-h1{background-color:rgb(188, 109, 188); font-size:22px;text-align:center;}
-h2{background-color:rgb(127, 188, 243);font-size: 20px; text-align:center;}
-h3{background-color:rgb(191, 252, 201);font-size: 20px}
-p{background-color:rgb(189, 246, 246);font-size: 14px; text-align:center;}
+h1{background-color:rgb(188, 109, 188); font-size:calc(2px + 1.5vw);text-align:center;}
+h2{background-color:rgb(127, 188, 243);font-size: calc(2px + 1.5vw); text-align:center;}
+h3{background-color:rgb(191, 252, 201);font-size: calc(2px + 1.5vw)}
+p{background-color:rgb(189, 246, 246);font-size: calc(1px + 1vw); text-align:center;}
 ul{background-color:rgb(247, 99, 99);font-size: 14px}
-ol{background-color:rgb(254, 254, 198);font-size: 14px;text-align:center;}
-header{background-color:rgb(215, 201, 255);font-size: 16px}
+ol{background-color:rgb(254, 254, 198);font-size: calc(1px + 1vw);text-align:center;}
+header{background-color:rgb(215, 201, 255);font-size: calc(1px + 1.2vw)}
 .nav-list{display:inline;
-padding-left:2vw;font-size:30px;text-align:center; color:white;}
+padding-left:2vw;font-size:calc(8px + 1.8vw);text-align:center; color:white;}
 .images{text-align:center;}
